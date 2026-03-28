@@ -210,4 +210,4 @@ async def main():
     await main_dp.start_polling(main_bot)
 
 if __name__ == '__main__':
-    asyncio.run(main())0:52 29.03.2026
+    asyncio.run(main())
